@@ -1,0 +1,13 @@
+{
+    "name": "ravinderbb/assemble-framework",
+    "description": "Build your WordPress Plugin Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ravinder Sharma",
+            "email": "ravinder.bb2@gmail.com"
+        }
+    ],
+    "require": {}
+}
